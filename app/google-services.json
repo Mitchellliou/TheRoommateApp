@@ -15,6 +15,14 @@
       },
       "oauth_client": [
         {
+          "client_id": "438479289608-4p3io1fr6hchdad3ous8t099gtoc3a8u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.aelleon.theroommateapp",
+            "certificate_hash": "20c522bd364e9bdd81f86351b35a3ca4877e24e5"
+          }
+        },
+        {
           "client_id": "438479289608-5lu74m1cbq6au3hqke4p3hf6fqtjvoa3.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
