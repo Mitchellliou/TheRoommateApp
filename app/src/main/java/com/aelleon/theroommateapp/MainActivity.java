@@ -29,7 +29,7 @@ public class MainActivity extends AppCompatActivity {
         message = (EditText) findViewById(R.id.message);
 
     }
-
+    // This is Mitchell's branch
     public void onButton(View view) {
 
         String mess = message.getText().toString();
