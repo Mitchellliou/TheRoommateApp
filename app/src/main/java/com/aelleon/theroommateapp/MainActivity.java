@@ -27,7 +27,7 @@ public class MainActivity extends AppCompatActivity {
         myRef = database.getReference("message");
 
         message = (EditText) findViewById(R.id.message);
-
+//this is my branch
     }
 
     public void onButton(View view) {
